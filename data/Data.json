@@ -1,0 +1,113 @@
+[
+    {
+      "employee_id": "001",
+      "first_name": "John",
+      "last_name": "Doe",
+      "department": "HR",
+      "Address": "123 Main St",
+      "hire_date": "03-15-2022",
+      "dob": "05-20-1990",
+      "joiningDate": "03-15-2022",
+      "salary": "60000"
+    },
+    {
+      "employee_id": "002",
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "department": "Marketing",
+      "Address": "456 Oak Ave",
+      "hire_date": "04-20-2021",
+      "dob": "08-12-1985",
+      "joiningDate": "04-20-2021",
+      "salary": "75000"
+    },
+    {
+      "employee_id": "003",
+      "first_name": "Michael",
+      "last_name": "Johnson",
+      "department": "IT",
+      "Address": "789 Pine Blvd",
+      "hire_date": "01-10-2023",
+      "dob": "11-05-1988",
+      "joiningDate": "01-10-2023",
+      "salary": "90000"
+    },
+    {
+      "employee_id": "004",
+      "first_name": "Sarah",
+      "last_name": "Williams",
+      "department": "Finance",
+      "Address": "234 Cedar Ln",
+      "hire_date": "07-08-2022",
+      "dob": "02-18-1995",
+      "joiningDate": "07-08-2022",
+      "salary": "80000"
+    },
+    {
+      "employee_id": "005",
+      "first_name": "David",
+      "last_name": "Brown",
+      "department": "Finance",
+      "Address": "567 Elm St",
+      "hire_date": "06-30-2021",
+      "dob": "09-25-1983",
+      "joiningDate": "06-30-2021",
+      "salary": "70000"
+    },
+    {
+      "employee_id": "006",
+      "first_name": "Emily",
+      "last_name": "Jones",
+      "department": "IT",
+      "Address": "890 Maple Ave",
+      "hire_date": "02-12-2023",
+      "dob": "12-10-1992",
+      "joiningDate": "02-12-2023",
+      "salary": "95000"
+    },
+    {
+      "employee_id": "007",
+      "first_name": "Chris",
+      "last_name": "Miller",
+      "department": "Customer Service",
+      "Address": "345 Birch Blvd",
+      "hire_date": "09-05-2022",
+      "dob": "04-15-1987",
+      "joiningDate": "09-05-2022",
+      "salary": "65000"
+    },
+    {
+      "employee_id": "008",
+      "first_name": "Amanda",
+      "last_name": "Taylor",
+      "department": "IT",
+      "Address": "678 Pine Ln",
+      "hire_date": "11-20-2021",
+      "dob": "06-08-1984",
+      "joiningDate": "11-20-2021",
+      "salary": "85000"
+    },
+    {
+      "employee_id": "009",
+      "first_name": "Daniel",
+      "last_name": "Davis",
+      "department": "Marketing",
+      "Address": "901 Oak Blvd",
+      "hire_date": "08-03-2023",
+      "dob": "03-22-1993",
+      "joiningDate": "08-03-2023",
+      "salary": "72000"
+    },
+    {
+      "employee_id": "010",
+      "first_name": "Jessica",
+      "last_name": "Clark",
+      "department": "HR",
+      "Address": "123 Cedar Ave",
+      "hire_date": "10-15-2022",
+      "dob": "07-12-1986",
+      "joiningDate": "10-15-2022",
+      "salary": "88000"
+    }
+  ]
+  
